@@ -25,7 +25,7 @@ CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;
 --
 
 COMMENT ON EXTENSION plpgsql IS 'PL/pgSQL procedural language';
--- OH HELLO,HIIIIIII
+-- OH HELLO,HIIIIIIiiiI
 
 SET search_path = public, pg_catalog;
 
